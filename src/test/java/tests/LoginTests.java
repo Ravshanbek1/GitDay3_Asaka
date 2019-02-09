@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-
+//asakadan salom!
 import java.util.concurrent.TimeUnit;
 
 public class LoginTests {
